@@ -1,5 +1,4 @@
-# Project Name
-> Lending Club Case Study
+# Lending Club Case Study
 
 
 ## Table of Contents
@@ -44,6 +43,6 @@ happened during that period.
 
 ## Contact
 Created by 
-[deepak10Rawat]
-[ganesh-mudkhede] 
+- [Deepak Rawat] https://github.com/deepak10rawat
+- [Ganesh Mudkhede] https://github.com/ganesh-mudkhede
 
